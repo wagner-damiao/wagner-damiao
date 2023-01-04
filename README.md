@@ -49,7 +49,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=wagner-damiao&theme=gruvbox&border_radius=4.5)
 
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wagner-damiao&show_icons=true&theme=gruvbox&layout=compact&langs_count=8)
 
 <br />
 <br />
