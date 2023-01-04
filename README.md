@@ -45,7 +45,7 @@
 ### Stats
 
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wagner-damiao&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=wagner-damiao&theme=gruvbox&border_radius=4.5)
 
